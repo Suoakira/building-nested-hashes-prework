@@ -31,11 +31,7 @@ def third_challenge
         :age => "15",
         :status => "alive"
       },
-      :heroine_friends => [{
-        :name => "steven"
-        :age => "30",
-        :attitude => "confused"
-      }]
+      :heroine_friends => []
    }
   }
 
